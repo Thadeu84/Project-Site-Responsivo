@@ -10,4 +10,4 @@ Nesse projeto,foi desenvolvido um site responsivo usando Flexbox e HTML Semânti
 HTML,
 CSS,
 JAVASCRIPT,
-FLexBox.
+FLexBox
